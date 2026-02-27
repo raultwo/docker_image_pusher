@@ -1,1 +1,1 @@
-openclaw/openclaw:latest
+ghcr.io/phioranex/openclaw-docker:latest
